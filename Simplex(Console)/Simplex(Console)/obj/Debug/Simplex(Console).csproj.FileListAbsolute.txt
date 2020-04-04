@@ -1,0 +1,6 @@
+c:\users\tamas\documents\visual studio 2015\Projects\Simplex(Console)\Simplex(Console)\bin\Debug\Simplex(Console).exe.config
+C:\Users\tamas\documents\visual studio 2015\Projects\Simplex(Console)\Simplex(Console)\bin\Debug\Simplex(Console).exe
+C:\Users\tamas\documents\visual studio 2015\Projects\Simplex(Console)\Simplex(Console)\bin\Debug\Simplex(Console).pdb
+C:\Users\tamas\documents\visual studio 2015\Projects\Simplex(Console)\Simplex(Console)\obj\Debug\Simplex(Console).csprojResolveAssemblyReference.cache
+C:\Users\tamas\documents\visual studio 2015\Projects\Simplex(Console)\Simplex(Console)\obj\Debug\Simplex(Console).exe
+C:\Users\tamas\documents\visual studio 2015\Projects\Simplex(Console)\Simplex(Console)\obj\Debug\Simplex(Console).pdb
